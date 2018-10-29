@@ -20,8 +20,8 @@ from sqlalchemy import Integer, String, Date, distinct, not_
 import pytest
 
 # environment variable depending on the user
-USERNAME = 'root'
-PASSWORD = 'thalswns1!'
+USERNAME = ''
+PASSWORD = ''
 DATABASE = 'sailors2'
 
 # declare, run engine for .execute(<mysql command>) queries
