@@ -8,8 +8,8 @@ import time
 import pytest
 
 # environment variable depending on the user
-USERNAME = 'root'
-PASSWORD = 'thalswns1!'
+USERNAME = ''
+PASSWORD = ''
 DATABASE = 'sailors2'
 
 # run engine
